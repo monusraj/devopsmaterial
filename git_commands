@@ -1,0 +1,9 @@
+ git init   --> It initializes local git repository.
+ git status  --> It chcecks the status of files in you directory
+ git add linuxcommands.txt  --> It will add file to your commit area
+ git status  -->  It chcecks the status of files in you directory
+ git commit -m "my 1st commit" --> Commit will add a file to the local repo.
+ git status  -->  It chcecks the status of files in you dir and compare it with your local repo
+ git remote add origin https://github.com/monusraj/devopsmaterial.git  --> it will form a link with remot repo and give origin as an alias.
+ git push -u origin master  --> It pushes your local repo onto remote master.
+
