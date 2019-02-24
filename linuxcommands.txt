@@ -1,0 +1,9 @@
+ mkdir -p /opt/devops/devopsmaterial
+ cd /opt/devops/devopsmaterial/
+ ls -lrt
+ cd ..
+ yum install git
+ git inti
+ cd /opt/devops/devopsmaterial/
+git init
+
